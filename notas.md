@@ -19,3 +19,6 @@ Também podemos utilizar interfaces para polimorfismo. Isso faz com que quando p
 
 ### Traits
 Permitem reutilizar métodos sem ter que utilizar herança. Assim, podemos chamá-la de herança horizontal
+
+## Métodos estáticos
+utilizado quando criamos algo que está vinculado ao objeto e não à classe.
