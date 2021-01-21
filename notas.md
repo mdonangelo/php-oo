@@ -16,3 +16,6 @@
 ## Polimorfismo
 Utilização de classes genéricas para representar classes mais concretas
 Também podemos utilizar interfaces para polimorfismo. Isso faz com que quando precisemos trocar, não estaremos dependentes de uma outra classe (facilita a manutenção do código).
+
+### Traits
+Permitem reutilizar métodos sem ter que utilizar herança. Assim, podemos chamá-la de herança horizontal

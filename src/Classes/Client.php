@@ -2,8 +2,12 @@
 
 namespace App\Classes;
 
+use App\Traits\Press;
+
 class Client extends Person
 {
+
+    use Press;
     
     public function setId(int $id): void
     {
